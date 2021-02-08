@@ -217,7 +217,7 @@ class _DatePickerRoute<T> extends PopupRoute<T> {
   final String barrierLabel;
 
   @override
-  Color get barrierColor => Colors.black12;
+  Color get barrierColor => Colors.black54;
 
   AnimationController _animationController;
 
