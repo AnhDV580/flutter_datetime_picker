@@ -750,7 +750,7 @@ final _i18nModel = <LocaleType, Map<String, Object>>{
   LocaleType.jp: {
     //Japanese
     'cancel': 'キャンセル',
-    'done': '完了',
+    'done': 'OK',
     'today': '今日',
     'monthShort': [
       '1月',
